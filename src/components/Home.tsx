@@ -1,7 +1,6 @@
 import {FunctionComponent} from "react";
 import Mininav from "./Mininav";
 import {e, h, m, o} from "../FontAwesome/icons";
-import {Link} from "react-router-dom";
 interface HomeProps {}
 
 const Home: FunctionComponent<HomeProps> = () => {

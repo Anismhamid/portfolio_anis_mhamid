@@ -1,7 +1,7 @@
 import {FunctionComponent} from "react";
 import {skillsImages} from "../../services/skillsImages";
 import Skills from "../../services/Skills";
-import {a, d, e, f, g, i, l, n, o, r, u, w, y} from "../../FontAwesome/icons";
+import {a, d, e, f, g, i, l, n, o, r, w} from "../../FontAwesome/icons";
 import Backbutton from "../../atoms/Backbuton";
 
 interface LeadingForwardProps {}

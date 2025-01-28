@@ -1,4 +1,4 @@
-import {FunctionComponent, useEffect, useMemo, useState} from "react";
+import {FunctionComponent, useMemo, useState} from "react";
 import Mininav from "./Mininav";
 import {c, code, h, l, m, s, t} from "../FontAwesome/icons";
 import {htmlCssProjects} from "../projectsInfo/html";
